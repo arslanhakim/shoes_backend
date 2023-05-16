@@ -55,3 +55,19 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+## ✨ credentils for env file
+
+HOST=0.0.0.0
+PORT=1337
+APP_KEYS="toBeModified1,toBeModified2"
+API_TOKEN_SALT=tobemodified
+ADMIN_JWT_SECRET=tobemodified
+JWT_SECRET=tobemodified
+
+CLOUDINARY_NAME= dzyqygnqm
+CLOUDINARY_KEY= 642596482342926
+CLOUDINARY_SECRET= 0hddxSjpcLEzlUQ3H8WP4zZx7Co
+
+STRIPE_KEY=sk_test_51N8IJ5SC90gCqOpwWBa5j9gIrZZUTnGuxP2yRX4SZOcidZr0yEzxzg2eo2UkDFG6MSsiCtAI4NbWaqYXbklysdJW00mEAktPS1
+CLIENT_URL=http://localhost:3000
