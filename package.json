@@ -15,8 +15,10 @@
     "@strapi/provider-upload-cloudinary": "^4.8.1",
     "@strapi/strapi": "4.8.1",
     "cloudinary": "^1.36.4",
-    "pg": "8.8.0",
+    "pg": "^8.8.0",
+    "pg-connection-string": "^2.6.0",
     "strapi": "^3.6.11",
+    "strapi-provider-upload-aws-s3": "^3.6.11",
     "stripe": "^11.14.0"
   },
   "author": {
@@ -26,7 +28,7 @@
     "uuid": "5ec6f0f4-0ee6-4e16-a909-382d223b279d"
   },
   "engines": {
-    "node": ">=14.19.1 <=18.x.x",
+    "node": ">=10.16.0 <=14.x.x",
     "npm": ">=6.0.0"
   },
   "license": "MIT"
